@@ -1,6 +1,11 @@
-With many appealing amenities to residents in the area such as the mediterranean weather, plentiful job opportunities, activities, and more, many people look to settle down in the Bay Area. However, California housing prices, specifically in the San Francisco Bay Area region are at an all time high. With the median housing price at over half a million, as opposed to the national average of a quarter of a million, and the fact that about twenty percent of Californians pay more than half their income to cover housing costs, we can see that finding affordable housing in the San Francisco Bay Area is a big problem that millions of people face. 
+With many appealing amenities to residents in the area such as the mediterranean weather, plentiful job opportunities, activities, and 
+more, many people look to settle down in the Bay Area. However, California housing prices, specifically in the San Francisco Bay Area 
+region are at an all time high. With the median housing price at over half a million, as opposed to the national average of a quarter 
+of a million, and the fact that about twenty percent of Californians pay more than half their income to cover housing costs, we can see 
+that finding affordable housing in the San Francisco Bay Area is a big problem that millions of people face. 
 
-However, we may be able to remedy this problem with the help of data science and data on the price of property in San Francisco. My goal is to create a tool that can help users find affordable housing in the city of San Francisco, the heart of the Bay Area.
+However, we may be able to remedy this problem with the help of data science and data on the price of property in San Francisco. 
+My goal is to create a tool that can help users find affordable housing in the city of San Francisco, the heart of the Bay Area.
 
 Stakeholders:
 Sellers of property
