@@ -1,0 +1,4 @@
+The following data will be used:
+
+Property sales: https://www.zillow.com/research/data/
+Location data: Foursquare Developer API
